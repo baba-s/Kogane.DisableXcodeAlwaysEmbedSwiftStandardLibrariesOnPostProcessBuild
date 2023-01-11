@@ -1,0 +1,9 @@
+{
+    "name": "com.baba-s.kogane-disable-xcode-always-embed-swift-standard-libraries-on-post-process-build",
+    "displayName": "Kogane Disable Xcode Always Embed Swift Standard Libraries On Post Process Build",
+    "version": "1.0.0",
+    "unity": "2022.1",
+    "author": "baba-s",
+    "description": "",
+    "dependencies": {}
+}
