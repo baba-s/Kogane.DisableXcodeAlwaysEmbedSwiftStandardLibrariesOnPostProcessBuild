@@ -5,7 +5,7 @@ using UnityEditor.iOS.Xcode;
 namespace Kogane.Internal
 {
     /// <summary>
-    /// iOS ビルド完了時に Xcode プロジェクト UnityFramework の「Always Embed Swift Standard Libraries」を「No」にするエディタ拡張
+    /// iOS ビルド完了時に Xcode プロジェクトの UnityFramework の「Always Embed Swift Standard Libraries」を「No」にするエディタ拡張
     /// https://kan-kikuchi.hatenablog.com/entry/Always_Embed_Swift_Standard_Libraries
     /// https://forum.unity.com/threads/2019-3-validation-on-upload-to-store-gives-unityframework-framework-contains-disallowed-file.751112/
     /// </summary>
